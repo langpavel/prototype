@@ -175,7 +175,7 @@ var Class = (function() {
     }
 
     return this;
-  }
+  };
 
   return {
     create: create,
